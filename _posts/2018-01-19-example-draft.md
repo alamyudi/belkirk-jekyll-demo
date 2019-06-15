@@ -6,6 +6,7 @@ sub_heading: ''
 tags:
 - draft
 related_posts: []
+banner_image: "/belkirk-jekyll-demo/uploads/2018/02/17/bridge.jpg"
 
 ---
 ## What are draft posts?
