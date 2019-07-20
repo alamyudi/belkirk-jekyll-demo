@@ -1,7 +1,7 @@
 ---
 title: Draft Post
 layout: post
-date: 2018-01-19T00:00:00.000+00:00
+date: 2018-01-19 07:00:00 +0700
 sub_heading: Sub heading goes here
 tags:
 - draft
