@@ -42,5 +42,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: shopee
+  type: text
+  config:
+    required: false
+  label: Shopee
 pages:
 - _data/information.yml
